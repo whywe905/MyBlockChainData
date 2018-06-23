@@ -1,0 +1,16 @@
+{
+  "name": "GEO_AspYre_CoinSale",
+  "version": "1.0.0",
+  "description": "GEO AspYre Coin sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Yesh",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
